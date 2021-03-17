@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1566639385 source:e:\courses\ada\assignment1\solutions\assignment1_pr2\main.cpp
+	<iostream>
+	<stdlib.h>
+	<cstring>
+	<string.h>
+	<cmath>
+	<bits/stdc++.h>
+

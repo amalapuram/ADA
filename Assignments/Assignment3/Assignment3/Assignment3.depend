@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1573109135 source:e:\courses\ada\assignments\assignment3\assignment3\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1570942331 source:e:\courses\ada\assignments\assignment2\func.cpp
+	"mytreap.h"
+	<cstdlib>
+	<iostream>
+
+1570425703 e:\courses\ada\assignments\assignment2\mytreap.h
+
+1570942463 source:e:\courses\ada\assignments\assignment2\treap\main.cpp
+	"mytreap.h"
+	<iostream>
+
+1570454312 e:\courses\ada\assignments\assignment2\treap\mytreap.h
+

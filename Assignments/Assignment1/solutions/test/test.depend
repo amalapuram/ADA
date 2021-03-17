@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1566533162 source:e:\courses\ada\assignment1\solutions\test\main.cpp
+	<iostream>
+	<cstring>
+	<string.h>
+
